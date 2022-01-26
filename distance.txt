@@ -1,0 +1,8 @@
+Toronto,London,100,200
+Toronto,Ajax,100,150
+London,Ajax,100
+Toronto,Hamilton,250
+Ajax,Kingston,400
+Ajax,Hamilton,250
+Hailton,Kingston,300
+Kingston,Toronto,350
